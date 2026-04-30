@@ -1,4 +1,3 @@
-<img width="960" height="578" alt="Screenshot 2026-04-30 111933" src="https://github.com/user-attachments/assets/33917f64-c3c5-4635-8c07-3a7e14e12855" />
 # 🌫️ AQI IntelliSense X
 
 <div align="center">

@@ -1,3 +1,4 @@
+<img width="960" height="578" alt="Screenshot 2026-04-30 111933" src="https://github.com/user-attachments/assets/33917f64-c3c5-4635-8c07-3a7e14e12855" />
 # 🌫️ AQI IntelliSense X
 
 <div align="center">
@@ -223,16 +224,15 @@ streamlit run app.py
 ## 📸 Screenshots
 
 ### Dashboard
-
-`Insert Dashboard Screenshot`
+<img width="895" height="581" alt="Screenshot 2026-04-30 112344" src="https://github.com/user-attachments/assets/11e328a1-7adb-4e3e-997f-cabda2e20dfc" />
 
 ### Forecast Graph
 
-`Insert Forecast Chart Screenshot`
+<img width="760" height="546" alt="Screenshot 2026-04-30 112313" src="https://github.com/user-attachments/assets/b2322a3a-986c-45fd-bb97-90152f0ea902" />
 
 ### Gauge Meter
 
-`Insert AQI Gauge Screenshot`
+<img width="960" height="578" alt="Screenshot 2026-04-30 111933" src="https://github.com/user-attachments/assets/33917f64-c3c5-4635-8c07-3a7e14e12855" />
 
 ---
 
